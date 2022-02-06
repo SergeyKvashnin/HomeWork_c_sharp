@@ -1,0 +1,15 @@
+/Users/sergeykvashnin/Desktop/HomeWork_c_sharp/task_10/bin/Debug/net6.0/task_10
+/Users/sergeykvashnin/Desktop/HomeWork_c_sharp/task_10/bin/Debug/net6.0/task_10.deps.json
+/Users/sergeykvashnin/Desktop/HomeWork_c_sharp/task_10/bin/Debug/net6.0/task_10.runtimeconfig.json
+/Users/sergeykvashnin/Desktop/HomeWork_c_sharp/task_10/bin/Debug/net6.0/task_10.dll
+/Users/sergeykvashnin/Desktop/HomeWork_c_sharp/task_10/bin/Debug/net6.0/ref/task_10.dll
+/Users/sergeykvashnin/Desktop/HomeWork_c_sharp/task_10/bin/Debug/net6.0/task_10.pdb
+/Users/sergeykvashnin/Desktop/HomeWork_c_sharp/task_10/obj/Debug/net6.0/task_10.csproj.AssemblyReference.cache
+/Users/sergeykvashnin/Desktop/HomeWork_c_sharp/task_10/obj/Debug/net6.0/task_10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeykvashnin/Desktop/HomeWork_c_sharp/task_10/obj/Debug/net6.0/task_10.AssemblyInfoInputs.cache
+/Users/sergeykvashnin/Desktop/HomeWork_c_sharp/task_10/obj/Debug/net6.0/task_10.AssemblyInfo.cs
+/Users/sergeykvashnin/Desktop/HomeWork_c_sharp/task_10/obj/Debug/net6.0/task_10.csproj.CoreCompileInputs.cache
+/Users/sergeykvashnin/Desktop/HomeWork_c_sharp/task_10/obj/Debug/net6.0/task_10.dll
+/Users/sergeykvashnin/Desktop/HomeWork_c_sharp/task_10/obj/Debug/net6.0/ref/task_10.dll
+/Users/sergeykvashnin/Desktop/HomeWork_c_sharp/task_10/obj/Debug/net6.0/task_10.pdb
+/Users/sergeykvashnin/Desktop/HomeWork_c_sharp/task_10/obj/Debug/net6.0/task_10.genruntimeconfig.cache
